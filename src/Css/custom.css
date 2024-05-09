@@ -1,0 +1,45 @@
+/* Create a custom styling sheet */
+.bank-app {
+    background-color:darkcyan;
+    color:white;
+}
+
+.heading {
+    padding: 2%;
+    border-bottom: 1px solid black;
+}
+
+/* Main section */
+.bank {
+    align-items: center;
+    padding-top: 5%;
+    padding-bottom: 50%;
+    padding-left: 2%;
+    width:108%
+}
+
+.bank Button {
+    background-color: rgb(185, 52, 4);
+    border: 1px solid white;
+    width: 100%;
+    font-size: 80%;
+}
+
+.inputs {
+    text-align: right;
+    padding-left: 3%;
+}
+
+label {
+    font-size: 110%;
+}
+
+input {
+    width: 130px;   
+}
+
+#balance {
+    text-align: left;
+    padding-left: 3%;
+    font-size: 300%;
+}
